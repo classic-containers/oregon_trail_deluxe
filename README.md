@@ -15,7 +15,7 @@ For detailed usage, consult README.md from upstream
 $ docker run \
     -e DISPLAY=unix$DISPLAY \
     -v /tmp/.X11-unix:/tmp/.X11-unix \
-    --device /dev/snd
+    --device /dev/snd \
     classiccontainers/oregon_trail_deluxe
 ```
 
