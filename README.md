@@ -43,3 +43,7 @@ $ docker run \
     -v /home/user1/savedata:/var/games/dosbox \
     classiccontainers/oregon_trail_deluxe
 ```
+
+## Disclaimer
+
+This project is intended for educational purposes only.
